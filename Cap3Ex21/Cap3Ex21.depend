@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1772582884 source:c:\users\acer\desktop\aeds\fundamentos da programacao de computadores\cap3\cap3ex21\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
